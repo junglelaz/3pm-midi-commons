@@ -2,6 +2,10 @@
 
 [Try the live MIDI library](https://3pm.to/library/)
 
+## Project focus
+
+A creative-technology project connecting music ideation, a searchable browser experience and WordPress integration. The starter collection contains 100 base parts adapted across 24 keys/modes, with paired previews and MIDI downloads. AI-assisted composition and the release's validation boundaries are documented below.
+
 ## Downloads
 
 | Package | Contents |
